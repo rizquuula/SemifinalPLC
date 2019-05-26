@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cxdconfig magnification="100" screentableexpand="true" currenthostkey="1" developermodehistory="notcreate">
+	<lastopenedforms>
+		<lastopenedform index="0" type="screen">
+		</lastopenedform>
+	</lastopenedforms>
+	<categorylist expand="true">
+		<item id="0000">
+		</item>
+	</categorylist>
+	<useasdefault>
+		<defaultform width="640" height="480" popupwidth="320" popupheight="240">
+		</defaultform>
+	</useasdefault>
+	<toolversion major="3" minor="6" runningchange="9">
+	</toolversion>
+	<testrunconfig testrunmode="1" hostname="SERIALA">
+	</testrunconfig>
+</cxdconfig>
